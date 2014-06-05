@@ -1,6 +1,8 @@
 README for RPGTest.
+Created on June 3rd 2014
+Last updated: June 5th 2014
 
-Created on June 3rd 2014 for the game "RPGTest", which itself was created on June 2nd 2014.
+For the game "RPGTest", which was created on June 2nd 2014.
 Developed by Jennifer Gold
 
 ==========================================================================
@@ -20,7 +22,7 @@ ORIGINAL CONTENT
 ----------------
 
 Characters [Vitali]
-Map Designs [EXT:Island & INT:Pub]
+Map Designs [EXT:IslandMap & INT:Pub]
 
 ===========================================================================
 
