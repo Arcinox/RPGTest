@@ -10,7 +10,7 @@ Authored by Jennifer Gold
 This game was created in order to learn and experiment with various functions of RPG Maker VX Ace.
 Unless otherwise specified, any content used within the game is a resource of RPG Maker VX Ace or one of its DLC packages.
 
-Copyright-free content will be listed below with its origin when used.
+Additional content will be listed below with its origin when used.
 
 As this game is hosted on Github, which is an open-source repository hosting service, this game may be downloaded and changed by others.
 However, the rights to the Intellectual Property of the original version of RPGTest as a whole, as well as any individual elements listed below under "Original Content", belong to the author.
@@ -27,7 +27,8 @@ Characters [Vitali]
 
 ===========================================================================
 
-COPYRIGHT-FREE CONTENT
+ADDITIONAL CONTENT
 ----------------------
 
-[None yet]
+Day/Night Cycle Script, authored by Vlue [V.M.] on the RPG Maker Forums
+URL: http://forums.rpgmakerweb.com/index.php?/topic/1079-basic-game-time-nightday/
