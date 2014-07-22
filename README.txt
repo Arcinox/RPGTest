@@ -1,6 +1,6 @@
 README for RPGTest.
 Created on June 3rd 2014
-Last updated: June 5th 2014
+Last updated: July 22nd 2014
 
 For the game "RPGTest", which was created on June 2nd 2014.
 Authored by Jennifer Gold
@@ -30,5 +30,13 @@ Characters [Vitali]
 ADDITIONAL CONTENT
 ----------------------
 
-Day/Night Cycle Script, authored by Vlue [V.M.] on the RPG Maker Forums
+Day/Night Cycle Script
+* Authored by Vlue [V.M.] on the RPG Maker Forums
 URL: http://forums.rpgmakerweb.com/index.php?/topic/1079-basic-game-time-nightday/
+
+Victor Engine - Basic Module
+Victor Engine - Pixel Movement
+victor Engine - Moving Platforms
+Victor Engine - Free Jump
+* Authored by Victor Sant
+URL: http://victorscripts.wordpress.com/
